@@ -7,6 +7,7 @@ My name is Eugene and I am a Go developer. I'm studying at the Belarusian State 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=70px/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=70px/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=70px/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=70px/></span>
           
           
 ## My stats
