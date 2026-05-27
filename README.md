@@ -1,5 +1,5 @@
 ## Hi there
-My name is Eugene and I am a Go developer. I'm studying at the Belarusian State Technical University, Minsk
+My name is Eugene and I am a Go developer. I'm studying at the Belarusian National Technical University, Minsk
 
 ## My technology stack
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width=70px/></span>
